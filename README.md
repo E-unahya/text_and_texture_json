@@ -7,12 +7,12 @@
 ```json
 [
     {
-        texture: "res://path/to/texture.png",
-        text : "どうも、Godotアドオンです。"
+        "texture": "res://path/to/texture.png",
+        "text" : "どうも、Godotアドオンです。"
     },
     {
-        texture: "res://path/to/another_texture.png",
-        text : "複数のテクスチャーとテキストをまとめて保存できます。"
+        "texture": "res://path/to/another_texture.png",
+        "text" : "複数のテクスチャーとテキストをまとめて保存できます。"
     }
 ]
 ```
